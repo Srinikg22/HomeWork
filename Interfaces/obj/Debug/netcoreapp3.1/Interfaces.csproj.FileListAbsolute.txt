@@ -1,0 +1,11 @@
+D:\Program\HomeWork\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\Program\HomeWork\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\Program\HomeWork\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\Program\HomeWork\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\Program\HomeWork\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\Program\HomeWork\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Program\HomeWork\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+D:\Program\HomeWork\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\Program\HomeWork\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\Program\HomeWork\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\Program\HomeWork\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

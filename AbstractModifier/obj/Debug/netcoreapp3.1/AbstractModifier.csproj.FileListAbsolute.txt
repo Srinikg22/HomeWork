@@ -1,0 +1,11 @@
+D:\Program\HomeWork\AbstractModifier\bin\Debug\netcoreapp3.1\AbstractModifier.exe
+D:\Program\HomeWork\AbstractModifier\bin\Debug\netcoreapp3.1\AbstractModifier.deps.json
+D:\Program\HomeWork\AbstractModifier\bin\Debug\netcoreapp3.1\AbstractModifier.runtimeconfig.json
+D:\Program\HomeWork\AbstractModifier\bin\Debug\netcoreapp3.1\AbstractModifier.runtimeconfig.dev.json
+D:\Program\HomeWork\AbstractModifier\bin\Debug\netcoreapp3.1\AbstractModifier.dll
+D:\Program\HomeWork\AbstractModifier\bin\Debug\netcoreapp3.1\AbstractModifier.pdb
+D:\Program\HomeWork\AbstractModifier\obj\Debug\netcoreapp3.1\AbstractModifier.AssemblyInfoInputs.cache
+D:\Program\HomeWork\AbstractModifier\obj\Debug\netcoreapp3.1\AbstractModifier.AssemblyInfo.cs
+D:\Program\HomeWork\AbstractModifier\obj\Debug\netcoreapp3.1\AbstractModifier.dll
+D:\Program\HomeWork\AbstractModifier\obj\Debug\netcoreapp3.1\AbstractModifier.pdb
+D:\Program\HomeWork\AbstractModifier\obj\Debug\netcoreapp3.1\AbstractModifier.csprojAssemblyReference.cache

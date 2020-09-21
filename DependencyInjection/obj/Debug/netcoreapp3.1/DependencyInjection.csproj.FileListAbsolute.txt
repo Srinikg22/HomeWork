@@ -1,0 +1,11 @@
+D:\Program\HomeWork\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+D:\Program\HomeWork\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\Program\HomeWork\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+D:\Program\HomeWork\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+D:\Program\HomeWork\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Program\HomeWork\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Program\HomeWork\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\Program\HomeWork\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\Program\HomeWork\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Program\HomeWork\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Program\HomeWork\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csprojAssemblyReference.cache

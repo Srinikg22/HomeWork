@@ -1,0 +1,11 @@
+D:\Program\HomeWork\PassingReferenceAndValue\bin\Debug\netcoreapp3.1\PassingReferenceAndValue.exe
+D:\Program\HomeWork\PassingReferenceAndValue\bin\Debug\netcoreapp3.1\PassingReferenceAndValue.deps.json
+D:\Program\HomeWork\PassingReferenceAndValue\bin\Debug\netcoreapp3.1\PassingReferenceAndValue.runtimeconfig.json
+D:\Program\HomeWork\PassingReferenceAndValue\bin\Debug\netcoreapp3.1\PassingReferenceAndValue.runtimeconfig.dev.json
+D:\Program\HomeWork\PassingReferenceAndValue\bin\Debug\netcoreapp3.1\PassingReferenceAndValue.dll
+D:\Program\HomeWork\PassingReferenceAndValue\bin\Debug\netcoreapp3.1\PassingReferenceAndValue.pdb
+D:\Program\HomeWork\PassingReferenceAndValue\obj\Debug\netcoreapp3.1\PassingReferenceAndValue.csprojAssemblyReference.cache
+D:\Program\HomeWork\PassingReferenceAndValue\obj\Debug\netcoreapp3.1\PassingReferenceAndValue.AssemblyInfoInputs.cache
+D:\Program\HomeWork\PassingReferenceAndValue\obj\Debug\netcoreapp3.1\PassingReferenceAndValue.AssemblyInfo.cs
+D:\Program\HomeWork\PassingReferenceAndValue\obj\Debug\netcoreapp3.1\PassingReferenceAndValue.dll
+D:\Program\HomeWork\PassingReferenceAndValue\obj\Debug\netcoreapp3.1\PassingReferenceAndValue.pdb

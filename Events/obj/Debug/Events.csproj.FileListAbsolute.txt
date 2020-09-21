@@ -1,0 +1,10 @@
+D:\Program\HomeWork\Events\obj\Debug\Events.Form1.resources
+D:\Program\HomeWork\Events\obj\Debug\Events.LoginControl.resources
+D:\Program\HomeWork\Events\obj\Debug\Events.Properties.Resources.resources
+D:\Program\HomeWork\Events\obj\Debug\Events.csproj.GenerateResource.cache
+D:\Program\HomeWork\Events\bin\Debug\Events.exe.config
+D:\Program\HomeWork\Events\bin\Debug\Events.exe
+D:\Program\HomeWork\Events\bin\Debug\Events.pdb
+D:\Program\HomeWork\Events\obj\Debug\Events.exe
+D:\Program\HomeWork\Events\obj\Debug\Events.pdb
+D:\Program\HomeWork\Events\obj\Debug\Events.csprojAssemblyReference.cache

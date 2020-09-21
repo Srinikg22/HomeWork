@@ -1,0 +1,11 @@
+D:\Program\HomeWork\Arrrays\bin\Debug\netcoreapp3.1\Arrrays.exe
+D:\Program\HomeWork\Arrrays\bin\Debug\netcoreapp3.1\Arrrays.deps.json
+D:\Program\HomeWork\Arrrays\bin\Debug\netcoreapp3.1\Arrrays.runtimeconfig.json
+D:\Program\HomeWork\Arrrays\bin\Debug\netcoreapp3.1\Arrrays.runtimeconfig.dev.json
+D:\Program\HomeWork\Arrrays\bin\Debug\netcoreapp3.1\Arrrays.dll
+D:\Program\HomeWork\Arrrays\bin\Debug\netcoreapp3.1\Arrrays.pdb
+D:\Program\HomeWork\Arrrays\obj\Debug\netcoreapp3.1\Arrrays.csprojAssemblyReference.cache
+D:\Program\HomeWork\Arrrays\obj\Debug\netcoreapp3.1\Arrrays.AssemblyInfoInputs.cache
+D:\Program\HomeWork\Arrrays\obj\Debug\netcoreapp3.1\Arrrays.AssemblyInfo.cs
+D:\Program\HomeWork\Arrrays\obj\Debug\netcoreapp3.1\Arrrays.dll
+D:\Program\HomeWork\Arrrays\obj\Debug\netcoreapp3.1\Arrrays.pdb
